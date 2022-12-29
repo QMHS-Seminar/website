@@ -1,5 +1,5 @@
 ---
-title: "Quantitative Methods in Health Sciences Seminar Series"
+title: "Quantitative Methods in Health Research Seminar Series"
 format: html
 editor: visual
 theme: lux
@@ -7,11 +7,11 @@ theme: lux
 
 ## Purpose
 
-The Quantitative Methods In Health Sciences (QMHS) Seminar Series is organized by the [Nasri Lab](https://www.bouchrarnasri.com/) at the École de santé publique de l'Université de Montréal. The goal of this seminar is to bring together researchers, academics, and students that work in the health sciences in order to share their work and encourage networking within the field.
+The Quantitative Methods In Health Research (QMHR) Seminar Series is organized by the [Nasri Lab](https://www.bouchrarnasri.com/) at the École de santé publique de l'Université de Montréal. The goal of this seminar is to bring together researchers, academics, and students that work in the health sciences in order to share their work and encourage networking within the field.
 
 ## Schedule
 
-The QMHS Seminar Series are scheduled to start on January of 2023. 
+The QMHR Seminar Series is scheduled to start on January of 2023. 
 
 | Date         | Speaker | Talk Title | 
 |--------------|:--------|-----------:|
@@ -27,17 +27,14 @@ The QMHS Seminar Series are scheduled to start on January of 2023.
 
 Questions and inquiries can be sent to
 
-<a href = "mailto: qmhs.seminar@gmail.com">qmhs.seminar@gmail.com</a>
+<!-- <a href = "mailto: qmhs.seminar@gmail.com">qmhs.seminar@gmail.com</a> -->
 
 <br>
 <a href = "mailto: bouchra.nasri@umontreal.ca">bouchra.nasri@umontreal.ca</a>
 
 ## Support 
 
-This seminar series are is supported by:
+This seminar series is supported by:
 
-- ESPUM
-
-- NSERC
-
-![](images/espum.jpg)
+![](images/logos.png)
+<img src="images/crm.png" width=40% align="center">
